@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog (compatible for mobile)
